@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @JosephBrady01
 - 👀 I’m interested in front end web development
-- 🌱 I’m currently learning react.js
 - 📫 My email: joembrady1@gmail.com
 
 <!---
