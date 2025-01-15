@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @JosephBrady01
+- I am currently enrolled at Cardiff University
 - 👀 I’m interested in front end web development
 - 📫 My email: joembrady1@gmail.com
 
